@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pool", "pool\pool.csproj", "{A8A593F9-1250-420E-BCB5-60347D044B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pool.tests", "pool.tests\pool.tests.csproj", "{80049541-594A-4A25-AEE7-3F5EDE661944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80049541-594A-4A25-AEE7-3F5EDE661944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80049541-594A-4A25-AEE7-3F5EDE661944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80049541-594A-4A25-AEE7-3F5EDE661944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80049541-594A-4A25-AEE7-3F5EDE661944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A593F9-1250-420E-BCB5-60347D044B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A593F9-1250-420E-BCB5-60347D044B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A593F9-1250-420E-BCB5-60347D044B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A593F9-1250-420E-BCB5-60347D044B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = pool\pool.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = Copyright (c) ${Year} ${CopyrightHolder}
+		$1.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
